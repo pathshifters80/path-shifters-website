@@ -1,0 +1,12 @@
+PATH SHIFTERS WEBSITE V10 - FORM SETUP
+
+The customer request form is now connected to FormSubmit so submissions can be emailed to:
+pathshifters80@gmail.com
+
+IMPORTANT:
+1. The website must be hosted on a web server for the form to work. It will not submit correctly when index.html is opened directly from your computer.
+2. On the first real submission, FormSubmit will send an activation/confirmation email to pathshifters80@gmail.com. Click the confirmation link.
+3. After activation, customer requests will be forwarded to that mailbox.
+4. FormSubmit is a third-party form service. The website does not store the submissions itself.
+
+The form uses the email address already provided for Path Shifters.
