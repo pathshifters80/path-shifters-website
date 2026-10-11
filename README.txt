@@ -1,11 +1,1 @@
-PATH SHIFTERS WEBSITE — VERSION 8
-
-Added the About Path Shifters section:
-- Why Choose Path Shifters?
-- Residential and commercial service
-- Per-push, monthly and seasonal options
-- Salt / ice control availability
-- Customer communication
-- Winter service call-to-action
-
-Open index.html in Chrome to preview the website.
+Path Shifters Snow Plowing website. Upload index.html and the images folder to your GitHub Pages repository. Quote buttons scroll to and prefill the request form. Prices are not displayed.
